@@ -28,16 +28,16 @@ body {
 }
 
 nav ul li a {
-  color: white !important;
+  color: white;
 }
 
 nav ul li a:hover {
-  opacity: 0.8 !important;
+  opacity: 0.8;
 }
 
 nav button {
-  color: white !important;
-  border: none !important;
+  color: white;
+  border: none;
 }
 
 .fa-icon {
@@ -57,7 +57,7 @@ a {
 }
 
 .btn-red:hover {
-  background: white !important;
+  background: white;
 }
 
 .btn-danger {
